@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Brightlin Blessy S 👋</h1>
-<h3 align="center">Full Stack Developer | Software Developer | AI/ML Enthusiast | CS Engineering Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+Web+Apps;Open+to+Opportunities" />
+</p>
+
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast | CS Engineering Student</h3>
 
 <p align="center">
   <a href="mailto:blessybrightlin1106@gmail.com">📧 Email</a> •
@@ -11,57 +16,98 @@
 
 ---
 
-### 👩‍💻 About Me
+### 🏆 Tech Stack Badges
 
-I'm a Computer Science Engineering student (CGPA: 8.24) at Government College of Engineering, Bargur, specializing in **Full Stack Development**, **AI/ML**, and **Cloud Computing**.
-
-- 💼 Completed internships in **AI/ML and Full Stack Development**
-- 🚀 Built scalable applications using **Angular, Spring Boot, Node.js, React, MongoDB, SQL**
-- 🤖 Exploring **LLM integrations, OpenAI & Gemini APIs**
-- 🏆 Certified in Angular (Infosys), Azure Fundamentals (Microsoft), and AI Search Methods (NPTEL)
-- 🎯 Actively seeking **Full Stack / AI roles**
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Framework-Angular-red?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 👩‍💻 About Me
 
-**Frontend:** HTML · CSS · JavaScript · React.js · Angular · Next.js  
-**Backend:** Node.js · Express.js · Spring Boot · Flask · REST APIs  
-**Databases:** MySQL · MongoDB · PostgreSQL  
-**AI/ML:** Python · Scikit-learn · Neural Networks · OpenAI · Gemini · LLM Integration  
-**Tools:** Git · Docker · Postman · VS Code · Vercel · Netlify  
-**Cloud:** AWS (Basic) · Azure (Fundamentals)
+- 🎓 CSE Student (CGPA: 8.24) at Government College of Engineering, Bargur  
+- 💼 Completed internships in **AI/ML and Full Stack Development**  
+- 🚀 Skilled in **Angular, Spring Boot, Node.js, React, MongoDB, SQL**  
+- 🤖 Exploring **LLMs, OpenAI, Gemini APIs**  
+- 🎯 Open to **Full Stack / AI opportunities**
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [Skill-Bridge](https://github.com/brightlinblessy/skill-bridge) | Volunteer–NGO matching platform with real-time WebSocket chat | Angular, Node.js, MongoDB |
-| [Pathfinding Visualizer](https://github.com/brightlinblessy/pathfinding-visualizer) | A* algorithm visualizer with 98% accuracy, 8-directional movement | JavaScript |
-| Real-Time Chat App | Scalable group chat with authentication & message persistence | Node.js, Socket.io |
-| Restaurant Reservation System | Multi-location booking platform with real-time validation | Node.js, SQL |
+| Project | Live Demo | Description | Stack |
+|--------|----------|------------|------|
+| [Skill-Bridge](https://github.com/brightlinblessy/skill-bridge) | 🔗 [Live](https://your-link) | NGO platform with real-time chat | Angular, Node.js, MongoDB |
+| [Pathfinding Visualizer](https://github.com/brightlinblessy/pathfinding-visualizer) | 🔗 [Live](https://your-link) | A* algorithm visualizer | JavaScript |
+| Real-Time Chat App | 🔗 [Live](https://your-link) | Scalable chat app | Node.js, Socket.io |
+| Restaurant System | 🔗 [Live](https://your-link) | Booking platform | Node.js, SQL |
+
+---
+
+### 📸 Project Preview
+
+![Project Demo](https://your-image-link-here)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brightlinblessy&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightlinblessy&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brightlinblessy&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightlinblessy&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=brightlinblessy&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-### 🏅 Certifications
+### 🐍 Contribution Graph
 
-- ✅ Angular Web Developer — Infosys  
-- ✅ Microsoft Azure Fundamentals — Microsoft Learn  
-- ✅ AI: Search Methods for Problem Solving — NPTEL  
-- ✅ The Java Language — Coursera  
-- ✅ Data Analysis with Excel — Coursera  
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-<p align="center">⭐ <i>Open to internship and full-time opportunities in Full Stack / AI roles!</i></p>
+### 📈 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brightlinblessy&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Currently Working On
+
+- 🚀 AI-powered applications using LLM APIs  
+- 💬 Real-time scalable chat systems  
+- 🌐 Full-stack production-ready apps  
+
+---
+
+### 🏅 Leadership & Achievements
+
+- 🎯 Placement Coordinator – Career Development Cell  
+- 🤝 NSS Volunteer  
+- 💡 Built multiple real-time full-stack applications  
+
+---
+
+### 📬 Contact Me
+
+<p align="center">
+  💼 <b>Open to internship & full-time opportunities</b> <br/>
+  📩 <a href="mailto:blessybrightlin1106@gmail.com">Email Me</a>
+</p>
+
+---
+
+<p align="center">⭐ <i>Let’s build something impactful together!</i></p>
