@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Brightlin Blessy S 👋</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | CS Engineering Student</h3>
+<h3 align="center">Full Stack Developer | Software Developer | AI/ML Enthusiast | CS Engineering Student</h3>
 
 <p align="center">
   <a href="mailto:blessybrightlin1106@gmail.com">📧 Email</a> •
