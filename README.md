@@ -5,6 +5,7 @@
   <a href="mailto:blessybrightlin1106@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">💼 LinkedIn</a> •
   <a href="https://github.com/brightlinblessy">🐙 GitHub</a> •
+  <a href="brightlin-developer-portfolio.vercel.app"> Portfolio</a> •
   📍 Thiruvarur, Tamil Nadu
 </p>
 
