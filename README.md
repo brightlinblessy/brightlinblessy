@@ -48,8 +48,8 @@ I'm a Computer Science Engineering student (CGPA: 8.24) at Government College of
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brightlinblessy&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightlinblessy&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brightlinblessy&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightlinblessy&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
 </p>
 
 ---
