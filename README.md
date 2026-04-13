@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="mailto:blessybrightlin1106@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">💼 LinkedIn</a> •
+  <a href="https://linkedin.com/in/brightlin-blessy-s">💼 LinkedIn</a> •
   <a href="https://github.com/brightlinblessy">🐙 GitHub</a> •
-  <a href="brightlin-developer-portfolio.vercel.app"> Portfolio</a> •
+  <a href="https://brightlin-developer-portfolio.vercel.app">🌐 Portfolio</a> •
   📍 Thiruvarur, Tamil Nadu
 </p>
 
@@ -15,10 +15,11 @@
 
 I'm a Computer Science Engineering student (CGPA: 8.24) at Government College of Engineering, Bargur, specializing in **Full Stack Development**, **AI/ML**, and **Cloud Computing**.
 
-- 🔭 Currently interning at **IBM SkillsBuild (AI/ML)** via Edunet Foundation
-- 🌱 Experienced with **Angular, Spring Boot, Node.js, React, MongoDB, SQL**
-- 🤖 Exploring **LLM integrations, OpenAI, Gemini APIs**
+- 💼 Completed internships in **AI/ML and Full Stack Development**
+- 🚀 Built scalable applications using **Angular, Spring Boot, Node.js, React, MongoDB, SQL**
+- 🤖 Exploring **LLM integrations, OpenAI & Gemini APIs**
 - 🏆 Certified in Angular (Infosys), Azure Fundamentals (Microsoft), and AI Search Methods (NPTEL)
+- 🎯 Actively seeking **Full Stack / AI roles**
 
 ---
 
@@ -39,7 +40,7 @@ I'm a Computer Science Engineering student (CGPA: 8.24) at Government College of
 |---|---|---|
 | [Skill-Bridge](https://github.com/brightlinblessy/skill-bridge) | Volunteer–NGO matching platform with real-time WebSocket chat | Angular, Node.js, MongoDB |
 | [Pathfinding Visualizer](https://github.com/brightlinblessy/pathfinding-visualizer) | A* algorithm visualizer with 98% accuracy, 8-directional movement | JavaScript |
-| Real-Time Chat App | Scalable group chat with auth & message persistence | Node.js, Socket.io |
+| Real-Time Chat App | Scalable group chat with authentication & message persistence | Node.js, Socket.io |
 | Restaurant Reservation System | Multi-location booking platform with real-time validation | Node.js, SQL |
 
 ---
